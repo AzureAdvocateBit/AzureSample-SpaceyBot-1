@@ -10,7 +10,7 @@ Prompts the user and displays a random image from NASA's [Astronomy Picture of t
 
 ## Instructions
 
-1. Install the [Bot Framework Composer](https://docs.microsoft.com/en-us/composer/install-composer)
+1. Install the [Bot Framework Composer](https://docs.microsoft.com/composer/install-composer?WT.mc_id=academic-0000-jasmineg)
 1. Clone/download this repo.
 1. Open the Bot Framework Composer, select "Open" and open the folder you cloned/downloaded.
 1. Go to the [NASA API Site](https://api.nasa.gov/) and fill out the form to receive an API key to your email.
@@ -37,9 +37,9 @@ Options in Bot Framework Composer have generated this bot in C# and can be ran a
 
 ![setting up a bot in the bot framework emulator](img/emulator.png)
 
-*Refer to [this documentation](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0&tabs=csharp) if you are feeling lost!*
+*Refer to [this documentation](https://docs.microsoft.com/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0&tabs=csharp&WT.mc_id=academic-0000-jasmineg) if you are feeling lost!*
 
 ## Read more
 
-- [Bot Framework Composer Documentation](https://docs.microsoft.com/composer/)
-- Microsoft Learn: [Create conversational AI Solutions](https://docs.microsoft.com/learn/paths/create-conversational-ai-solutions)
+- [Bot Framework Composer Documentation](https://docs.microsoft.com/composer/?WT.mc_id=academic-0000-jasmineg)
+- Microsoft Learn: [Create conversational AI Solutions](https://docs.microsoft.com/learn/paths/create-conversational-ai-solutions?WT.mc_id=academic-0000-jasmineg)
